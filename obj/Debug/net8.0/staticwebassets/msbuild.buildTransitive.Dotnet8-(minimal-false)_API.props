@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Dotnet8-(minimal-false)_API.props" />
-</Project>
